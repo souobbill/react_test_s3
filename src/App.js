@@ -1,21 +1,29 @@
-import logo from './logo.svg';
+import logo from './logo.png';
+import log3iac from './log3iac.png';
+import logiuc from './logiuc.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+
+      <p>
+          TEST DE L'APPLICATION <code>,REACT_TEST </code>.
+        </p>
+        <img src={logiuc} className="" alt="log" />
         <img src={logo} className="App-logo" alt="logo" />
+        <img src={log3iac} className="" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          FORMATION <code>,CERTIFICATION </code> POUR VOUS.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href=""
           target="_blank"
-          rel="noopener noreferrer"
+          rel="Wouri Teck Link"
         >
-          Learn React
+          Welcome To WOURI_TECH
         </a>
       </header>
     </div>
