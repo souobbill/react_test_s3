@@ -17,6 +17,9 @@ function App() {
         <p>
           FORMATION <code>,CERTIFICATION </code> POUR VOUS.
         </p>
+        <p>
+          ###<code> Version 1.1 </code> ###.
+        </p>
         <a
           className="App-link"
           href=""
